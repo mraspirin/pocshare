@@ -1,38 +1,12 @@
-# POCSHARE
+## About POC
 
-## About platform
+- In view of the malicious submission of POC, the platform provides an opinion feedback channel. After receiving the report of POC content, the platform will manually intervene for review. After review, if the situation is true, the platform will return the points of the paying user and punish the user account that maliciously publishes false POC content.
 
-- The project aims to provide a sharing platform for safety lovers to learn and communicate.
+## contact us
 
-- While collecting and sharing POC, we also hope to have more people's participation.
+- Platform address: http://161.117.236.100 
 
-- Security enthusiasts are welcome to submit POC and reproduction steps on the platform.
-
-- The platform POC sharing mode adopts two modes: free and paid reading.
-
-- The platform is currently in the stage of test and trial operation, and more modules and functions will be continuously updated.
-
-- During the testing phase, the platform welcomes everyone to participate in the use of the platform and is eager to receive feedback and suggestions from all users.
-
-##  About the original intention 
-
-- The purpose of the platform is to provide a learning and communication platform.
-
-- On the basis of adhering to the spirit of open source, we also hope to create benefits for resource providers.
-
-- We hope to finally build a harmonious and benign community learning environment.
-
-##  About integral 
-
-- In the testing stage, we will issue platform points to users who register the platform from time to time. 
-
-- In the test stage, the recharge and withdrawal channels of points will not be opened temporarily. 
-
-- In the future planning of the platform, we plan to open the recharge and withdrawal functions of points after formal operation. 
-
-- The platform will charge 20% (tentative) of POC income for  the part of integral income for the maintenance of the platform, and the rest is the reward of POC submitters. 
-
-
+- Feedback email: 619749686@qq.com 
 
 ## 关于平台
 
